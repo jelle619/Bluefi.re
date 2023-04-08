@@ -1,0 +1,7 @@
+.form fieldset input:not([type="submit"]),
+.form fieldset textarea {
+    width: 100%;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+    resize: none;
+}

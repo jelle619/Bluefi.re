@@ -1,0 +1,64 @@
+.header {
+    backdrop-filter: var(--header-backdrop-filter);
+    background: var(--header-background);
+    border-bottom: var(--header-border);
+
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    user-select: none;
+
+    z-index: 9999;
+}
+
+.navigation {
+    backdrop-filter: blur(12px);
+    background: var(--navigation-background);
+
+    border-right: var(--navigation-border);
+
+    width: 100%;
+    height: calc(100vh - var(--header-height));
+    max-width: var(--navigation-width);
+    position: fixed;
+    transition: transform 0.1s;
+
+    overflow-y: scroll;
+
+    z-index: 9999;
+}
+
+.navigation--visible {
+    transform: translateX(0)
+}
+
+.navigation--invisible {
+    transform: translateX(calc(-1 * var(--navigation-width)))
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown--content {
+    display: none;
+    position: absolute;
+    background: var(--dropdown-background);
+    backdrop-filter: var(--dropdown-backdrop-filter);
+    z-index: 9999;
+    left: auto;
+    right: 0;
+    flex-direction: column;
+    padding: 1rem;
+    border: var(--dropdown-border);
+    border-radius: var(--dropdown-border-radius);
+}
+
+.dropdown:hover .dropdown--content {
+    display: flex;
+}

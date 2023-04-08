@@ -1,0 +1,16 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown--content {
+    display: none;
+    position: absolute;
+    color: var(--header-background);
+    backdrop-filter: var(--header-backdrop-filter);
+    z-index: 9999;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+  }

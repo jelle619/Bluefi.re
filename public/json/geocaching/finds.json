@@ -1,0 +1,3598 @@
+{
+    "results": [
+      {
+        "id": 9023957,
+        "name": "🍴🌾Picknick stop 🌾🍴",
+        "code": "GCA6NZA",
+        "premiumOnly": true,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.957162,
+          "longitude": 5.911018
+        },
+        "detailsUrl": "/geocache/GCA6NZA",
+        "hasGeotour": false,
+        "placedDate": "2023-04-02T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-05T13:06:36",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 30,
+            "name": "Picnic tables nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 59,
+            "name": "Food nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7799269,
+        "name": "TR4",
+        "code": "GC8WJJ8",
+        "premiumOnly": true,
+        "favoritePoints": 13,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.450617,
+          "longitude": 5.501417
+        },
+        "detailsUrl": "/geocache/GC8WJJ8",
+        "hasGeotour": false,
+        "placedDate": "2020-07-14T00:00:00",
+        "owner": {
+          "code": "PRZVCNJ",
+          "username": "Broosje77"
+        },
+        "lastFoundDate": "2023-04-03T12:00:00",
+        "trackableCount": 0,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8151354,
+        "name": "TR7",
+        "code": "GC98CYV",
+        "premiumOnly": true,
+        "favoritePoints": 197,
+        "geocacheType": 2,
+        "containerType": 4,
+        "difficulty": 2.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.4553,
+          "longitude": 5.4977
+        },
+        "detailsUrl": "/geocache/GC98CYV",
+        "hasGeotour": false,
+        "placedDate": "2021-04-12T00:00:00",
+        "owner": {
+          "code": "PRZVCNJ",
+          "username": "Broosje77"
+        },
+        "lastFoundDate": "2023-04-05T20:26:55",
+        "trackableCount": 0,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 51,
+            "name": "Special tool required",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7905863,
+        "name": "TR6",
+        "code": "GC905FR",
+        "premiumOnly": true,
+        "favoritePoints": 274,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 2.5,
+        "terrain": 2.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.453833,
+          "longitude": 5.496333
+        },
+        "detailsUrl": "/geocache/GC905FR",
+        "hasGeotour": false,
+        "placedDate": "2020-09-18T00:00:00",
+        "owner": {
+          "code": "PRZVCNJ",
+          "username": "Broosje77"
+        },
+        "lastFoundDate": "2023-04-06T15:15:47",
+        "trackableCount": 1,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 47,
+            "name": "Field puzzle",
+            "isApplicable": true
+          },
+          {
+            "id": 59,
+            "name": "Food nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 6325102,
+        "name": "De Droepnaas",
+        "code": "GC793JF",
+        "premiumOnly": true,
+        "favoritePoints": 21,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.929267,
+          "longitude": 5.906733
+        },
+        "detailsUrl": "/geocache/GC793JF",
+        "hasGeotour": false,
+        "placedDate": "2017-07-19T00:00:00",
+        "owner": {
+          "code": "PRM9JXY",
+          "username": "leeuwenborgh"
+        },
+        "lastFoundDate": "2023-03-31T12:00:00",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 56,
+            "name": "Medium hike (1 km–10 km)",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 9002906,
+        "name": "Mariakapel Vaesrade ⭐",
+        "code": "GCA6028",
+        "premiumOnly": true,
+        "favoritePoints": 1,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.931967,
+          "longitude": 5.9089
+        },
+        "detailsUrl": "/geocache/GCA6028",
+        "hasGeotour": false,
+        "placedDate": "2023-03-15T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-08T15:11:22",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 26,
+            "name": "Public transportation nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7949105,
+        "name": "Zitterse Volkstuintjes",
+        "code": "GC91KFN",
+        "premiumOnly": true,
+        "favoritePoints": 3,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.997917,
+          "longitude": 5.874033
+        },
+        "detailsUrl": "/geocache/GC91KFN",
+        "hasGeotour": false,
+        "placedDate": "2020-10-20T00:00:00",
+        "owner": {
+          "code": "PRGCZRD",
+          "username": "Zitterse"
+        },
+        "lastFoundDate": "2023-04-06T11:06:23",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 26,
+            "name": "Public transportation nearby",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 5957678,
+        "name": "Met STIP op de kaart: Sittard",
+        "code": "GC6WR83",
+        "premiumOnly": false,
+        "favoritePoints": 80,
+        "geocacheType": 2,
+        "containerType": 6,
+        "difficulty": 1,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.996333,
+          "longitude": 5.8751
+        },
+        "detailsUrl": "/geocache/GC6WR83",
+        "hasGeotour": false,
+        "placedDate": "2016-11-09T00:00:00",
+        "owner": {
+          "code": "PRF48DK",
+          "username": "Donutfind"
+        },
+        "lastFoundDate": "2023-04-06T11:11:52",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": false
+          },
+          {
+            "id": 51,
+            "name": "Special tool required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 26,
+            "name": "Public transportation nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 64,
+            "name": "Tree climbing required",
+            "isApplicable": false
+          }
+        ]
+      },
+      {
+        "id": 6536984,
+        "name": "kEinstein in het groen",
+        "code": "GC7G72C",
+        "premiumOnly": false,
+        "favoritePoints": 4,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.944417,
+          "longitude": 5.96295
+        },
+        "detailsUrl": "/geocache/GC7G72C",
+        "hasGeotour": false,
+        "placedDate": "2017-12-19T00:00:00",
+        "owner": {
+          "code": "PRJ2D8N",
+          "username": "Derjoep"
+        },
+        "lastFoundDate": "2023-04-07T15:27:47",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 59,
+            "name": "Food nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7388741,
+        "name": "Young Scholars 3.0",
+        "code": "GC8DTCD",
+        "premiumOnly": false,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "userDidNotFind": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.448306,
+          "longitude": 5.483278
+        },
+        "detailsUrl": "/geocache/GC8DTCD",
+        "hasGeotour": false,
+        "placedDate": "2019-09-19T00:00:00",
+        "owner": {
+          "code": "PRGMWT",
+          "username": "peterkraai"
+        },
+        "lastFoundDate": "2023-04-07T14:35:43",
+        "trackableCount": 0,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7299556,
+        "name": "Trash #6",
+        "code": "GC8ATJF",
+        "premiumOnly": true,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.9345166666667,
+          "longitude": 5.96385
+        },
+        "detailsUrl": "/geocache/GC8ATJF",
+        "hasGeotour": false,
+        "placedDate": "2019-07-15T00:00:00",
+        "owner": {
+          "code": "PRCFBTQ",
+          "username": "robenjen"
+        },
+        "lastFoundDate": "2023-03-12T12:00:00",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 6192982,
+        "name": "Vind het aapje.",
+        "code": "GC74N3H",
+        "premiumOnly": true,
+        "favoritePoints": 28,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 1.5,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.934793,
+          "longitude": 5.97276
+        },
+        "detailsUrl": "/geocache/GC74N3H",
+        "hasGeotour": false,
+        "placedDate": "2017-04-26T00:00:00",
+        "owner": {
+          "code": "PRMD079",
+          "username": "TeamGeoPickers"
+        },
+        "lastFoundDate": "2023-04-06T13:22:49",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": true
+          },
+          {
+            "id": 59,
+            "name": "Food nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 26,
+            "name": "Public transportation nearby",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7300041,
+        "name": "Trash #8",
+        "code": "GC8AV34",
+        "premiumOnly": true,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.9321166666667,
+          "longitude": 5.97883333333333
+        },
+        "detailsUrl": "/geocache/GC8AV34",
+        "hasGeotour": false,
+        "placedDate": "2019-07-15T00:00:00",
+        "owner": {
+          "code": "PRCFBTQ",
+          "username": "robenjen"
+        },
+        "lastFoundDate": "2023-03-18T09:50:46",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8977754,
+        "name": "Flynn's box",
+        "code": "GCA54WX",
+        "premiumOnly": true,
+        "favoritePoints": 1,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.948817,
+          "longitude": 5.901067
+        },
+        "detailsUrl": "/geocache/GCA54WX",
+        "hasGeotour": false,
+        "placedDate": "2023-02-21T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-04T12:00:00",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 4962013,
+        "name": "De Janssenmeule",
+        "code": "GC5TB5W",
+        "premiumOnly": true,
+        "favoritePoints": 88,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 2,
+        "terrain": 2,
+        "userFound": true,
+        "userDidNotFind": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.952817,
+          "longitude": 5.913033
+        },
+        "detailsUrl": "/geocache/GC5TB5W",
+        "hasGeotour": false,
+        "placedDate": "2015-04-27T00:00:00",
+        "owner": {
+          "code": "PR4EGHF",
+          "username": "Alpha1971"
+        },
+        "lastFoundDate": "2023-03-25T15:38:26",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 31,
+            "name": "Camping nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 38,
+            "name": "Campfires",
+            "isApplicable": false
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8899445,
+        "name": "Vlinder Box 🦋",
+        "code": "GCA2GCT",
+        "premiumOnly": true,
+        "favoritePoints": 11,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 3,
+        "terrain": 3,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.950596,
+          "longitude": 5.894405
+        },
+        "detailsUrl": "/geocache/GCA2GCT",
+        "hasGeotour": false,
+        "placedDate": "2022-11-27T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-04T12:00:00",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": false
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": false
+          },
+          {
+            "id": 47,
+            "name": "Field puzzle",
+            "isApplicable": true
+          },
+          {
+            "id": 52,
+            "name": "Night cache",
+            "isApplicable": false
+          },
+          {
+            "id": 14,
+            "name": "Recommended at night",
+            "isApplicable": false
+          },
+          {
+            "id": 51,
+            "name": "Special tool required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 64,
+            "name": "Tree climbing required",
+            "isApplicable": false
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8846579,
+        "name": "Den Box",
+        "code": "GCA0QCE",
+        "premiumOnly": true,
+        "favoritePoints": 3,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 3,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.952549,
+          "longitude": 5.908907
+        },
+        "detailsUrl": "/geocache/GCA0QCE",
+        "hasGeotour": false,
+        "placedDate": "2022-10-09T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-05T12:44:54",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8857440,
+        "name": "Slakkie slak box",
+        "code": "GCA13NT",
+        "premiumOnly": false,
+        "favoritePoints": 0,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 2.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.954197,
+          "longitude": 5.909473
+        },
+        "detailsUrl": "/geocache/GCA13NT",
+        "hasGeotour": false,
+        "placedDate": "2022-10-19T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-03T16:26:15",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8923848,
+        "name": "Patricia's box",
+        "code": "GCA3AT0",
+        "premiumOnly": false,
+        "favoritePoints": 1,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 2,
+        "userFound": true,
+        "userDidNotFind": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.957334,
+          "longitude": 5.906592
+        },
+        "detailsUrl": "/geocache/GCA3AT0",
+        "hasGeotour": false,
+        "placedDate": "2022-12-29T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-05T13:30:35",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 14,
+            "name": "Recommended at night",
+            "isApplicable": false
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 58,
+            "name": "Fuel nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 64,
+            "name": "Tree climbing required",
+            "isApplicable": false
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 5693146,
+        "name": "Ostsee Trail - 135,0ter km - Kastanie",
+        "code": "GC6JWZT",
+        "premiumOnly": false,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 54.47105,
+          "longitude": 10.165717
+        },
+        "detailsUrl": "/geocache/GC6JWZT",
+        "hasGeotour": false,
+        "placedDate": "2016-05-31T00:00:00",
+        "owner": {
+          "code": "PR3MTPW",
+          "username": "twoapples"
+        },
+        "lastFoundDate": "2023-04-07T13:07:00",
+        "trackableCount": 0,
+        "region": "Schleswig-Holstein",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 56,
+            "name": "Medium hike (1 km–10 km)",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 6074122,
+        "name": "Ostsee Trail - 134ter km - Strandeule",
+        "code": "GC70NDB",
+        "premiumOnly": false,
+        "favoritePoints": 6,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 54.476933,
+          "longitude": 10.150567
+        },
+        "detailsUrl": "/geocache/GC70NDB",
+        "hasGeotour": false,
+        "placedDate": "2017-02-17T00:00:00",
+        "owner": {
+          "code": "PR41QX0",
+          "username": "2Fischis"
+        },
+        "lastFoundDate": "2023-04-07T13:23:37",
+        "trackableCount": 0,
+        "region": "Schleswig-Holstein",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": false
+          },
+          {
+            "id": 9,
+            "name": "Significant hike",
+            "isApplicable": true
+          },
+          {
+            "id": 14,
+            "name": "Recommended at night",
+            "isApplicable": false
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": false
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": false
+          },
+          {
+            "id": 37,
+            "name": "Horses",
+            "isApplicable": false
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 11,
+            "name": "May require wading",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 6179944,
+        "name": "Camping forbudt",
+        "code": "GC747GZ",
+        "premiumOnly": false,
+        "favoritePoints": 20,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 55.124983,
+          "longitude": 8.5489
+        },
+        "detailsUrl": "/geocache/GC747GZ",
+        "hasGeotour": false,
+        "placedDate": "2017-04-19T00:00:00",
+        "owner": {
+          "code": "PREWB18",
+          "username": "Geoheimniskrämer"
+        },
+        "lastFoundDate": "2023-04-08T13:47:58",
+        "trackableCount": 0,
+        "region": "None",
+        "country": "Denmark",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 30,
+            "name": "Picnic tables nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 28,
+            "name": "Public restrooms nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": true
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": true
+          },
+          {
+            "id": 35,
+            "name": "Off-road vehicles",
+            "isApplicable": true
+          },
+          {
+            "id": 37,
+            "name": "Horses",
+            "isApplicable": false
+          },
+          {
+            "id": 38,
+            "name": "Campfires",
+            "isApplicable": false
+          }
+        ]
+      },
+      {
+        "id": 7982580,
+        "name": "Kirkeby Plantage",
+        "code": "GC92QAG",
+        "premiumOnly": false,
+        "favoritePoints": 7,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 2,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 55.122717,
+          "longitude": 8.547033
+        },
+        "detailsUrl": "/geocache/GC92QAG",
+        "hasGeotour": false,
+        "placedDate": "2020-11-15T00:00:00",
+        "owner": {
+          "code": "PRR7AEC",
+          "username": "TeamPjuske"
+        },
+        "lastFoundDate": "2023-04-08T16:06:00",
+        "trackableCount": 2,
+        "region": "None",
+        "country": "Denmark",
+        "attributes": [
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": false
+          },
+          {
+            "id": 64,
+            "name": "Tree climbing required",
+            "isApplicable": false
+          }
+        ]
+      },
+      {
+        "id": 8717345,
+        "name": "Verdens Lande",
+        "code": "GC9WCXK",
+        "premiumOnly": false,
+        "favoritePoints": 26,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 2,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 55.124291,
+          "longitude": 8.544167
+        },
+        "detailsUrl": "/geocache/GC9WCXK",
+        "hasGeotour": false,
+        "placedDate": "2022-06-23T00:00:00",
+        "owner": {
+          "code": "PRR7AEC",
+          "username": "TeamPjuske"
+        },
+        "lastFoundDate": "2023-04-08T15:56:17",
+        "trackableCount": 1,
+        "region": "None",
+        "country": "Denmark",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": false
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 62,
+            "name": "Seasonal access",
+            "isApplicable": false
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 64,
+            "name": "Tree climbing required",
+            "isApplicable": false
+          },
+          {
+            "id": 17,
+            "name": "Poisonous plants",
+            "isApplicable": false
+          }
+        ]
+      },
+      {
+        "id": 7820324,
+        "name": "Rømø Tidevandet",
+        "code": "GC8X9FE",
+        "premiumOnly": true,
+        "favoritePoints": 30,
+        "geocacheType": 2,
+        "containerType": 6,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 55.14675,
+          "longitude": 8.611367
+        },
+        "detailsUrl": "/geocache/GC8X9FE",
+        "hasGeotour": false,
+        "placedDate": "2020-07-26T00:00:00",
+        "owner": {
+          "code": "PRF58FM",
+          "username": "nokiaoil"
+        },
+        "lastFoundDate": "2023-04-08T09:50:52",
+        "trackableCount": 0,
+        "region": "None",
+        "country": "Denmark",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 5079973,
+        "name": "Yeti's Trainspotting Spot",
+        "code": "GC5Y9Y1",
+        "premiumOnly": false,
+        "favoritePoints": 3,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.871733,
+          "longitude": 6.094917
+        },
+        "detailsUrl": "/geocache/GC5Y9Y1",
+        "hasGeotour": false,
+        "placedDate": "2015-07-01T00:00:00",
+        "owner": {
+          "code": "PR1HXF8",
+          "username": "Die-Eifelyetis"
+        },
+        "lastFoundDate": "2023-04-06T12:00:00",
+        "trackableCount": 0,
+        "region": "Nordrhein-Westfalen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 176859,
+        "name": "Duivels-Cache",
+        "code": "GCKPV2",
+        "premiumOnly": false,
+        "favoritePoints": 71,
+        "geocacheType": 3,
+        "containerType": 3,
+        "difficulty": 2.5,
+        "terrain": 2.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 52.29055,
+          "longitude": 6.997283
+        },
+        "detailsUrl": "/geocache/GCKPV2",
+        "hasGeotour": false,
+        "placedDate": "2009-04-09T00:00:00",
+        "owner": {
+          "code": "PRPDHH",
+          "username": "Go and Find"
+        },
+        "lastFoundDate": "2023-04-07T12:00:00",
+        "trackableCount": 0,
+        "region": "Overijssel",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": false
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": false
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": false
+          },
+          {
+            "id": 35,
+            "name": "Off-road vehicles",
+            "isApplicable": false
+          },
+          {
+            "id": 37,
+            "name": "Horses",
+            "isApplicable": false
+          },
+          {
+            "id": 38,
+            "name": "Campfires",
+            "isApplicable": false
+          },
+          {
+            "id": 36,
+            "name": "Snowmobiles",
+            "isApplicable": false
+          }
+        ]
+      },
+      {
+        "id": 161884,
+        "name": "the river",
+        "code": "GCK780",
+        "premiumOnly": false,
+        "favoritePoints": 45,
+        "geocacheType": 3,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.546467,
+          "longitude": 9.96915
+        },
+        "detailsUrl": "/geocache/GCK780",
+        "hasGeotour": false,
+        "placedDate": "2004-08-08T00:00:00",
+        "owner": {
+          "code": "PRP244",
+          "username": "michi_hh"
+        },
+        "lastFoundDate": "2023-04-07T14:03:04",
+        "trackableCount": 0,
+        "region": "Hamburg",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087075,
+        "name": "Jesteburg C42",
+        "code": "GC83NF8",
+        "premiumOnly": false,
+        "favoritePoints": 0,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.3138,
+          "longitude": 9.95355
+        },
+        "detailsUrl": "/geocache/GC83NF8",
+        "hasGeotour": false,
+        "placedDate": "2019-02-15T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-04-02T18:45:49.469",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": false
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": false
+          },
+          {
+            "id": 35,
+            "name": "Off-road vehicles",
+            "isApplicable": false
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087098,
+        "name": "Jesteburg C48",
+        "code": "GC83NG0",
+        "premiumOnly": false,
+        "favoritePoints": 0,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.31505,
+          "longitude": 9.965533
+        },
+        "detailsUrl": "/geocache/GC83NG0",
+        "hasGeotour": false,
+        "placedDate": "2019-03-01T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-02-27T16:29:25",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 37,
+            "name": "Horses",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087081,
+        "name": "Jesteburg C47",
+        "code": "GC83NFE",
+        "premiumOnly": false,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 2,
+        "terrain": 2.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.31575,
+          "longitude": 9.963
+        },
+        "detailsUrl": "/geocache/GC83NFE",
+        "hasGeotour": false,
+        "placedDate": "2019-02-15T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-03-23T09:38:35.2650185",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": false
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": false
+          },
+          {
+            "id": 35,
+            "name": "Off-road vehicles",
+            "isApplicable": false
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087076,
+        "name": "Jesteburg C46",
+        "code": "GC83NF9",
+        "premiumOnly": false,
+        "favoritePoints": 0,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.313583,
+          "longitude": 9.960567
+        },
+        "detailsUrl": "/geocache/GC83NF9",
+        "hasGeotour": false,
+        "placedDate": "2019-03-01T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-04-02T18:43:52.578",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 70,
+            "name": "Power trail",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 30,
+            "name": "Picnic tables nearby",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7085183,
+        "name": "Jesteburg C43",
+        "code": "GC83KG7",
+        "premiumOnly": false,
+        "favoritePoints": 3,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.3115,
+          "longitude": 9.953233
+        },
+        "detailsUrl": "/geocache/GC83KG7",
+        "hasGeotour": false,
+        "placedDate": "2019-03-01T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-04-02T18:45:44.439",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 53,
+            "name": "Park and grab",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": true
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": true
+          },
+          {
+            "id": 35,
+            "name": "Off-road vehicles",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087057,
+        "name": "Jesteburg C38",
+        "code": "GC83NEN",
+        "premiumOnly": false,
+        "favoritePoints": 1,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.324433,
+          "longitude": 9.944583
+        },
+        "detailsUrl": "/geocache/GC83NEN",
+        "hasGeotour": false,
+        "placedDate": "2019-02-15T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-04-02T14:50:20.693",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": false
+          },
+          {
+            "id": 34,
+            "name": "Quads",
+            "isApplicable": false
+          },
+          {
+            "id": 35,
+            "name": "Off-road vehicles",
+            "isApplicable": false
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087064,
+        "name": "Jesteburg C39",
+        "code": "GC83NEX",
+        "premiumOnly": false,
+        "favoritePoints": 0,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.323267,
+          "longitude": 9.947783
+        },
+        "detailsUrl": "/geocache/GC83NEX",
+        "hasGeotour": false,
+        "placedDate": "2019-03-01T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-04-02T14:45:00.567",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 56,
+            "name": "Medium hike (1 km–10 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 9,
+            "name": "Significant hike",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7087069,
+        "name": "Jesteburg C40",
+        "code": "GC83NF2",
+        "premiumOnly": false,
+        "favoritePoints": 3,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 53.32145,
+          "longitude": 9.948417
+        },
+        "detailsUrl": "/geocache/GC83NF2",
+        "hasGeotour": false,
+        "placedDate": "2019-03-01T00:00:00",
+        "owner": {
+          "code": "PRWWYXE",
+          "username": "CacheJesteburg"
+        },
+        "lastFoundDate": "2023-04-02T14:35:53.192",
+        "trackableCount": 0,
+        "region": "Niedersachsen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 19,
+            "name": "Ticks",
+            "isApplicable": true
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7183735,
+        "name": "Dutch Hills 7",
+        "code": "GC86Y2A",
+        "premiumOnly": true,
+        "favoritePoints": 14,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 3,
+        "userFound": true,
+        "cacheStatus": 1,
+        "postedCoordinates": {
+          "latitude": 50.9378333333333,
+          "longitude": 5.99875
+        },
+        "detailsUrl": "/geocache/GC86Y2A",
+        "hasGeotour": false,
+        "placedDate": "2019-04-26T00:00:00",
+        "owner": {
+          "code": "PR6WWAN",
+          "username": "Sjoapje"
+        },
+        "lastFoundDate": "2023-01-27T12:00:00",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": false
+          },
+          {
+            "id": 56,
+            "name": "Medium hike (1 km–10 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 9,
+            "name": "Significant hike",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8735080,
+        "name": "Peter's box",
+        "code": "GC9X0BP",
+        "premiumOnly": true,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 2,
+        "terrain": 3,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.954236,
+          "longitude": 5.905859
+        },
+        "detailsUrl": "/geocache/GC9X0BP",
+        "hasGeotour": false,
+        "placedDate": "2022-07-08T00:00:00",
+        "owner": {
+          "code": "PR1B04EC",
+          "username": "Ellak93"
+        },
+        "lastFoundDate": "2023-04-05T13:19:56",
+        "trackableCount": 1,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          },
+          {
+            "id": 9,
+            "name": "Significant hike",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          },
+          {
+            "id": 64,
+            "name": "Tree climbing required",
+            "isApplicable": false
+          },
+          {
+            "id": 39,
+            "name": "Thorns",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 4388695,
+        "name": "Leeuwentrap Vlissingen",
+        "code": "GC563JQ",
+        "premiumOnly": true,
+        "favoritePoints": 8,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.44835,
+          "longitude": 3.562517
+        },
+        "detailsUrl": "/geocache/GC563JQ",
+        "hasGeotour": false,
+        "placedDate": "2014-06-01T00:00:00",
+        "owner": {
+          "code": "PR5C069",
+          "username": "marsso"
+        },
+        "lastFoundDate": "2023-03-31T20:20:34",
+        "trackableCount": 0,
+        "region": "Zeeland",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 1951535,
+        "name": "zo maar allweer een kruis - tb & coin hotel",
+        "code": "GC2H9GN",
+        "premiumOnly": false,
+        "favoritePoints": 95,
+        "geocacheType": 2,
+        "containerType": 4,
+        "difficulty": 2.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.9778,
+          "longitude": 5.903983
+        },
+        "detailsUrl": "/geocache/GC2H9GN",
+        "hasGeotour": false,
+        "placedDate": "2010-10-25T00:00:00",
+        "owner": {
+          "code": "PR47NJV",
+          "username": "TEAM R34"
+        },
+        "lastFoundDate": "2023-03-24T12:49:48",
+        "trackableCount": 1,
+        "region": "Nordrhein-Westfalen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 40,
+            "name": "Stealth required",
+            "isApplicable": true
+          },
+          {
+            "id": 37,
+            "name": "Horses",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7320580,
+        "name": "Zoetste straatje in het centrum van Geleen",
+        "code": "GC8BGEN",
+        "premiumOnly": false,
+        "favoritePoints": 1,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 2.5,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.969283,
+          "longitude": 5.82975
+        },
+        "detailsUrl": "/geocache/GC8BGEN",
+        "hasGeotour": false,
+        "placedDate": "2019-08-02T00:00:00",
+        "owner": {
+          "code": "PR192MJ",
+          "username": "vduuren"
+        },
+        "lastFoundDate": "2023-03-27T13:47:19",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 59,
+            "name": "Food nearby",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 3210821,
+        "name": "Die letzte Lore!",
+        "code": "GC3XHXT",
+        "premiumOnly": true,
+        "favoritePoints": 6,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.924967,
+          "longitude": 6.111467
+        },
+        "detailsUrl": "/geocache/GC3XHXT",
+        "hasGeotour": false,
+        "placedDate": "2012-09-26T00:00:00",
+        "owner": {
+          "code": "PR6M12Q",
+          "username": "Team HABA"
+        },
+        "lastFoundDate": "2023-04-01T12:00:00",
+        "trackableCount": 0,
+        "region": "Nordrhein-Westfalen",
+        "country": "Germany",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7982911,
+        "name": "Simon says",
+        "code": "GC92QN6",
+        "premiumOnly": true,
+        "favoritePoints": 124,
+        "geocacheType": 2,
+        "containerType": 4,
+        "difficulty": 3.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.942,
+          "longitude": 5.9879
+        },
+        "detailsUrl": "/geocache/GC92QN6",
+        "hasGeotour": false,
+        "placedDate": "2021-04-06T00:00:00",
+        "owner": {
+          "code": "PR5DNG2",
+          "username": "replayman35"
+        },
+        "lastFoundDate": "2023-04-07T13:29:58",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": true
+          },
+          {
+            "id": 47,
+            "name": "Field puzzle",
+            "isApplicable": true
+          },
+          {
+            "id": 51,
+            "name": "Special tool required",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8724314,
+        "name": "Parade 2022",
+        "code": "GC9WM5D",
+        "premiumOnly": false,
+        "favoritePoints": 1,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 2,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 2,
+        "postedCoordinates": {
+          "latitude": 50.943117,
+          "longitude": 5.975483
+        },
+        "detailsUrl": "/geocache/GC9WM5D",
+        "hasGeotour": false,
+        "placedDate": "2022-06-29T00:00:00",
+        "owner": {
+          "code": "PR5FJFW",
+          "username": "Danique89"
+        },
+        "lastFoundDate": "2022-10-18T14:28:35",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          },
+          {
+            "id": 33,
+            "name": "Motorcycles",
+            "isApplicable": false
+          }
+        ]
+      },
+      {
+        "id": 2821738,
+        "name": "Strijp U",
+        "code": "GC3FG1Q",
+        "premiumOnly": false,
+        "favoritePoints": 7,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.456783,
+          "longitude": 5.446983
+        },
+        "detailsUrl": "/geocache/GC3FG1Q",
+        "hasGeotour": false,
+        "placedDate": "2012-06-10T00:00:00",
+        "owner": {
+          "code": "PR3AYR5",
+          "username": "Inge-de-Mol"
+        },
+        "lastFoundDate": "2023-04-03T19:38:27",
+        "trackableCount": 0,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": false
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 55,
+            "name": "Short hike (<1 km)",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 5390095,
+        "name": "Het Houten Huis",
+        "code": "GC68PKZ",
+        "premiumOnly": false,
+        "favoritePoints": 23,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 51.457867,
+          "longitude": 5.455667
+        },
+        "detailsUrl": "/geocache/GC68PKZ",
+        "hasGeotour": false,
+        "placedDate": "2015-12-27T00:00:00",
+        "owner": {
+          "code": "PRCRXBW",
+          "username": "vanierseljongen"
+        },
+        "lastFoundDate": "2023-03-18T13:59:00",
+        "trackableCount": 0,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 65,
+            "name": "Yard (private residence)",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8556026,
+        "name": "Coco Loco",
+        "code": "GC9P01R",
+        "premiumOnly": false,
+        "favoritePoints": 10,
+        "geocacheType": 2,
+        "containerType": 3,
+        "difficulty": 1,
+        "terrain": 1,
+        "userFound": true,
+        "cacheStatus": 1,
+        "postedCoordinates": {
+          "latitude": 51.451767,
+          "longitude": 5.462033
+        },
+        "detailsUrl": "/geocache/GC9P01R",
+        "hasGeotour": false,
+        "placedDate": "2022-04-20T00:00:00",
+        "owner": {
+          "code": "PR1C55JD",
+          "username": "CocoLocoKinderwinkel"
+        },
+        "lastFoundDate": "2023-01-27T12:35:03",
+        "trackableCount": 3,
+        "region": "Noord-Brabant",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 24,
+            "name": "Wheelchair accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 30,
+            "name": "Picnic tables nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 28,
+            "name": "Public restrooms nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 59,
+            "name": "Food nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 27,
+            "name": "Drinking water nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 3227073,
+        "name": "De grenspaal 01",
+        "code": "GC3Y3V2",
+        "premiumOnly": false,
+        "favoritePoints": 2,
+        "geocacheType": 2,
+        "containerType": 2,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 2,
+        "postedCoordinates": {
+          "latitude": 50.95035,
+          "longitude": 5.826517
+        },
+        "detailsUrl": "/geocache/GC3Y3V2",
+        "hasGeotour": false,
+        "placedDate": "2012-10-05T00:00:00",
+        "owner": {
+          "code": "PR1NPH2",
+          "username": "Boonie-oet-Gelaen"
+        },
+        "lastFoundDate": "2022-08-30T18:16:51",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 32,
+            "name": "Bicycles",
+            "isApplicable": true
+          },
+          {
+            "id": 63,
+            "name": "Recommended for tourists",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 8668845,
+        "name": "Communie 2022",
+        "code": "GC9TRE3",
+        "premiumOnly": false,
+        "favoritePoints": 0,
+        "geocacheType": 2,
+        "containerType": 6,
+        "difficulty": 1.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 1,
+        "postedCoordinates": {
+          "latitude": 50.952383,
+          "longitude": 5.90405
+        },
+        "detailsUrl": "/geocache/GC9TRE3",
+        "hasGeotour": false,
+        "placedDate": "2022-05-16T00:00:00",
+        "owner": {
+          "code": "PRVJP4K",
+          "username": "de6vanSjèn"
+        },
+        "lastFoundDate": "2023-02-25T08:11:11",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 6,
+            "name": "Recommended for kids",
+            "isApplicable": true
+          },
+          {
+            "id": 41,
+            "name": "Stroller accessible",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 25,
+            "name": "Parking nearby",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7321914,
+        "name": "Sjoon Oësjbik",
+        "code": "GC8BHVP",
+        "premiumOnly": false,
+        "favoritePoints": 97,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 2.5,
+        "terrain": 1.5,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.952,
+          "longitude": 5.896017
+        },
+        "detailsUrl": "/geocache/GC8BHVP",
+        "hasGeotour": false,
+        "placedDate": "2019-08-03T00:00:00",
+        "owner": {
+          "code": "PRM9JXY",
+          "username": "leeuwenborgh"
+        },
+        "lastFoundDate": "2023-04-02T12:00:00",
+        "trackableCount": 1,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 8,
+            "name": "Scenic view",
+            "isApplicable": true
+          },
+          {
+            "id": 13,
+            "name": "Available 24/7",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      },
+      {
+        "id": 7076069,
+        "name": "Tussen Oësjbik en Doonder",
+        "code": "GC83A17",
+        "premiumOnly": false,
+        "favoritePoints": 39,
+        "geocacheType": 2,
+        "containerType": 8,
+        "difficulty": 1.5,
+        "terrain": 2,
+        "userFound": true,
+        "cacheStatus": 0,
+        "postedCoordinates": {
+          "latitude": 50.956617,
+          "longitude": 5.902833
+        },
+        "detailsUrl": "/geocache/GC83A17",
+        "hasGeotour": false,
+        "placedDate": "2019-02-08T00:00:00",
+        "owner": {
+          "code": "PRM9JXY",
+          "username": "leeuwenborgh"
+        },
+        "lastFoundDate": "2023-03-25T12:00:00",
+        "trackableCount": 0,
+        "region": "Limburg",
+        "country": "Netherlands",
+        "attributes": [
+          {
+            "id": 42,
+            "name": "Needs maintenance",
+            "isApplicable": true
+          },
+          {
+            "id": 1,
+            "name": "Dogs",
+            "isApplicable": true
+          },
+          {
+            "id": 7,
+            "name": "Takes less than one hour",
+            "isApplicable": true
+          },
+          {
+            "id": 15,
+            "name": "Available in winter",
+            "isApplicable": true
+          }
+        ]
+      }
+    ],
+    "total": 51
+  }

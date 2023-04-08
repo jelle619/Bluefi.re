@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+<Document><Style id="tbTravelStyle"><LineStyle>
+  <width>3</width>
+  <color>ff00ffff</color>
+</LineStyle><PolyStyle>
+  <color>ff00ffff</color>
+</PolyStyle></Style><name>Kissing Dragons</name><description><![CDATA[<p><span style="color:#020202;">█</span><span style="color:#746f98;">█</span><span style="color:#ffffff;">█</span><span style="color:transparent;">██</span><span style="color:#5e598c;">█</span><span style="color:transparent;">████████████████</span><br />
+<span style="color:#9390ac;">█</span><span style="color:#0a0a0d;">█</span><span style="color:#14112b;">█</span><span style="color:#454071;">█</span><span style="color:#827cb7;">█</span><span style="color:#000000;">█</span><span style="color:#2d294b;">█</span><span style="color:#837cc0;">█</span><span style="color:transparent;">█████████</span><span style="color:#020205;">█</span><span style="color:transparent;">████</span><br />
+<span style="color:#47445d;">█</span><span style="color:#666280;">█</span><span style="color:#5c5974;">█</span><span style="color:#64607c;">█</span><span style="color:#413e58;">█</span><span style="color:#373264;">█</span><span style="color:#130f30;">█</span><span style="color:#38335c;">█</span><span style="color:#7670b0;">█</span><span style="color:transparent;">███████</span><span style="color:#5b3a9e;">█</span><span style="color:transparent;">██</span><span style="color:#ffffff;">█</span><span style="color:#413fa0;">█</span><span style="color:#5f3c9e;">█</span><br />
+<span style="color:#0d0b23;">█</span><span style="color:#0b0822;">█</span><span style="color:#110e27;">█</span><span style="color:#3f3c58;">█</span><span style="color:#3a3752;">█</span><span style="color:#5e579b;">█</span><span style="color:#1a1636;">█</span><span style="color:#25204b;">█</span><span style="color:#090716;">█</span><span style="color:#17142e;">█</span><span style="color:transparent;">█████</span><span style="color:#3a2e88;">█</span><span style="color:#5534a6;">█</span><span style="color:#7e43c7;">█</span><span style="color:#7945c5;">█</span><span style="color:#433093;">█</span><span style="color:#6538a6;">█</span><span style="color:#713faa;">█</span><br />
+<span style="color:#0a081d;">█</span><span style="color:#554e92;">█</span><span style="color:#6760a3;">█</span><span style="color:#0d0a23;">█</span><span style="color:#1e1a43;">█</span><span style="color:#1c173f;">█</span><span style="color:#191535;">█</span><span style="color:#040309;">█</span><span style="color:#1a1631;">█</span><span style="color:#1d193d;">█</span><span style="color:#27234d;">█</span><span style="color:#000000;">█</span><span style="color:#34489c;">█</span><span style="color:#334291;">█</span><span style="color:#313c89;">█</span><span style="color:#0f0f33;">█</span><span style="color:#252375;">█</span><span style="color:#262579;">█</span><span style="color:#283589;">█</span><span style="color:#2a3d92;">█</span><span style="color:#382277;">█</span><span style="color:#803cb7;">█</span><br />
+<span style="color:#000000;">█</span><span style="color:#635ab3;">█</span><span style="color:#494188;">█</span><span style="color:#000000;">█</span><span style="color:#1d1940;">█</span><span style="color:#171336;">█</span><span style="color:#151130;">█</span><span style="color:#13102c;">█</span><span style="color:#110e23;">█</span><span style="color:#110e22;">█</span><span style="color:#010102;">█</span><span style="color:#13102a;">█</span><span style="color:#1b1859;">█</span><span style="color:#15134e;">█</span><span style="color:#121149;">█</span><span style="color:#111046;">█</span><span style="color:#111149;">█</span><span style="color:#15144c;">█</span><span style="color:#211f5c;">█</span><span style="color:#16154a;">█</span><span style="color:#161349;">█</span><span style="color:#151342;">█</span><br />
+<span style="color:#22202b;">█</span><span style="color:#2a2836;">█</span><span style="color:#3a384c;">█</span><span style="color:transparent;">██</span><span style="color:#ffffff;">█</span><span style="color:#2d2b3b;">█</span><span style="color:#19133c;">█</span><span style="color:#151132;">█</span><span style="color:#171336;">█</span><span style="color:#0d1320;">█</span><span style="color:#1a1535;">█</span><span style="color:#883986;">█</span><span style="color:#773373;">█</span><span style="color:#1c1860;">█</span><span style="color:#14124e;">███</span><span style="color:#14134e;">█</span><span style="color:#161551;">█</span><span style="color:#171a57;">█</span><span style="color:#000000;">█</span><br />
+<span style="color:#252430;">█</span><span style="color:#363348;">█</span><span style="color:#000000;">█</span><span style="color:#0e0c26;">█</span><span style="color:#100d2a;">█</span><span style="color:transparent;">█</span><span style="color:#ffffff;">█</span><span style="color:#1c1740;">█</span><span style="color:#221e47;">█</span><span style="color:#ffffff;">█</span><span style="color:transparent;">████</span><span style="color:#17134a;">█</span><span style="color:#100e3f;">█</span><span style="color:#120f43;">█</span><span style="color:#16144e;">█</span><span style="color:#15154f;">█</span><span style="color:#121446;">█</span><span style="color:#1c296c;">█</span><span style="color:#251758;">█</span><br />
+<span style="color:#1e1c27;">█</span><span style="color:#16151f;">█</span><span style="color:#0c0a1f;">█</span><span style="color:#221e43;">█</span><span style="color:#151334;">█</span><span style="color:#0e0c28;">█</span><span style="color:#0e0b28;">█</span><span style="color:#0f0c2a;">█</span><span style="color:#120f32;">█</span><span style="color:#120f2d;">█</span><span style="color:#ffffff;">█</span><span style="color:#322779;">█</span><span style="color:#503486;">█</span><span style="color:#452f80;">█</span><span style="color:#5e3b96;">█</span><span style="color:#ffffff;">█</span><span style="color:transparent;">█</span><span style="color:#000000;">██</span><span style="color:#1c1652;">█</span><span style="color:#140f36;">█</span><span style="color:#472f8b;">█</span><br />
+<span style="color:#272349;">█</span><span style="color:#0d0b25;">█</span><span style="color:#0b0922;">█</span><span style="color:#100d28;">█</span><span style="color:#0a0820;">█</span><span style="color:#0a081f;">█</span><span style="color:#0a081e;">█</span><span style="color:#0a081d;">█</span><span style="color:#181536;">█</span><span style="color:#000000;">█</span><span style="color:#030307;">█</span><span style="color:#181650;">█</span><span style="color:#181852;">█</span><span style="color:#161e59;">█</span><span style="color:#15255f;">█</span><span style="color:#241e60;">█</span><span style="color:#5d3b93;">█</span><span style="color:#34277b;">█</span><span style="color:#6038a8;">█</span><span style="color:#6538ad;">█</span><span style="color:#49318a;">█</span><span style="color:#3c2a7b;">█</span><br />
+<span style="color:#0b0921;">█</span><span style="color:#0d0a20;">█</span><span style="color:#0a081f;">█</span><span style="color:#0b0920;">█</span><span style="color:#09071b;">█</span><span style="color:#070617;">█</span><span style="color:#0b0920;">█</span><span style="color:#0b091f;">█</span><span style="color:transparent;">█</span><span style="color:#010104;">█</span><span style="color:#110f29;">█</span><span style="color:#171240;">█</span><span style="color:#171444;">█</span><span style="color:#12103a;">█</span><span style="color:#11103c;">█</span><span style="color:#121242;">█</span><span style="color:#10153f;">█</span><span style="color:#020105;">█</span><span style="color:#211b55;">█</span><span style="color:#1a154a;">█</span><span style="color:#0f1039;">█</span><span style="color:#020106;">█</span><br />
+<span style="color:#0a081f;">█</span><span style="color:#0d0b25;">█</span><span style="color:#0f0c28;">█</span><span style="color:#09071a;">█</span><span style="color:#080616;">█</span><span style="color:#0d0a24;">█</span><span style="color:#100d2c;">█</span><span style="color:transparent;">██</span><span style="color:#181818;">█</span><span style="color:#ffffff;">█</span><span style="color:transparent;">██</span><span style="color:#1e194d;">█</span><span style="color:#1a1647;">█</span><span style="color:#211b51;">█</span><span style="color:#322561;">█</span><span style="color:#271d54;">█</span><span style="color:#1c1649;">█</span><span style="color:#141240;">█</span><span style="color:#090b2d;">█</span><span style="color:#0c143d;">█</span></p>
+
+<p><em>&quot;Laat niets en niemand het vuur in jouw drakenhart ooit doven.&quot; &mdash; Patty van Delft</em></p>
+
+<p>Note: There is a film covering the key chain. We ask you kindly not to peel it. Thanks!</p>
+Kissing Dragons has traveled 1781.03624846755 miles.]]></description><Folder><Style /><name>Travel Bug Stops (1781.03624846755 mile(s))</name><open>0</open><Placemark><name>GC92QN6</name><Point><coordinates>5.9881,50.9422,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|1|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC9MJP4</name><Point><coordinates>4.6352,51.8084,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|2|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC6KEJ6</name><Point><coordinates>3.5444,51.4576,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|3|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC245QK</name><Point><coordinates>4.4833,51.9102,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|4|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC3P4GE</name><Point><coordinates>4.4804,51.9081,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|5|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC632MC</name><Point><coordinates>3.8935,51.503,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|6|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC7B85F</name><Point><coordinates>4.4879,51.9206,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|7|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC36B49</name><Point><coordinates>5.9857,51.1962,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|8|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC6GZMT</name><Point><coordinates>5.9864,51.193,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|9|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC81AEQ</name><Point><coordinates>5.993,51.1946,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|10|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC869JM</name><Point><coordinates>5.9873,51.1983,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|11|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC8T2ZH</name><Point><coordinates>3.5055,51.5598,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|12|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC9MEK0</name><Point><coordinates>13.3241,52.4611,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|13|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC4Z81G</name><Point><coordinates>13.3214,52.4581,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|14|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GCJJZR</name><Point><coordinates>13.3247,52.4615,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|15|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC8EZH7</name><Point><coordinates>13.3381,52.504,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|16|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC422R9</name><Point><coordinates>13.3436,52.502,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|17|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GCA27KC</name><Point><coordinates>13.3434,52.5051,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|18|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GCA27KC</name><Point><coordinates>13.3432,52.5049,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|19|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC8EZH7</name><Point><coordinates>13.3385,52.5043,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|20|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC83XR6</name><Point><coordinates>16.6035,49.178,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|21|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC4WRHC</name><Point><coordinates>14.4578,50.1653,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|22|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC292D8</name><Point><coordinates>14.3904,50.0806,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|23|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC2HCBM</name><Point><coordinates>14.458,50.1075,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|24|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC138GT</name><Point><coordinates>14.4498,50.1124,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|25|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC5AW48</name><Point><coordinates>14.1379,50.5326,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|26|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC9CTA0</name><Point><coordinates>8.6333,50.0542,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|27|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark><Placemark><name>GC9487Q</name><Point><coordinates>13.3291,49.677,100 
+</coordinates></Point><Style>
+  <Icon>
+    <href>http://chart.apis.google.com/chart?chst=d_bubble_icon_text_small&amp;chld=location|bbT|28|FFFFFF|000000</href>
+  </Icon>
+</Style><description><![CDATA[]]></description><visibility>1</visibility></Placemark></Folder><Placemark><styleUrl>#tbTravelStyle</styleUrl><name>Travelbug Route</name><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.9881,50.9422,100  
+4.6352,51.8084,100  
+3.5444,51.4576,100  
+4.4833,51.9102,100  
+4.4804,51.9081,100  
+3.8935,51.503,100  
+4.4879,51.9206,100  
+5.9857,51.1962,100  
+5.9864,51.193,100  
+5.993,51.1946,100  
+5.9873,51.1983,100  
+3.5055,51.5598,100  
+13.3241,52.4611,100  
+13.3214,52.4581,100  
+13.3247,52.4615,100  
+13.3381,52.504,100  
+13.3436,52.502,100  
+13.3434,52.5051,100  
+13.3432,52.5049,100  
+13.3385,52.5043,100  
+16.6035,49.178,100  
+14.4578,50.1653,100  
+14.3904,50.0806,100  
+14.458,50.1075,100  
+14.4498,50.1124,100  
+14.1379,50.5326,100  
+8.6333,50.0542,100  
+13.3291,49.677,100  
+</coordinates></LineString><visibility>1</visibility></Placemark></Document></kml>
