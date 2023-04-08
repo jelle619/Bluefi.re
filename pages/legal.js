@@ -14,7 +14,7 @@ export default function Legal() {
       <h2>Privacy Policy</h2>
       <p>We aim to respect the privacy of our site's visitors and keep our privacy policy as short and concise as possible. The main points are as follows.</p>
       <ul>
-        <li>Under normal circumstances, we do not collect personal information about our users unless the user deliberately sends us personal information, such as through a contact form.</li>
+        <li>Under normal circumstances, we do not collect personal information about our users unless the user deliberately sends us this information, such as through a contact form.</li>
         <li>We may collect anonymous data, which is retained for an indefinite amount of time.</li>
         <li>In the event that we do have personal information on a certain individual, they can exercise their right to erasure by contacting us.</li>
       </ul>

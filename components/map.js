@@ -86,6 +86,6 @@ export default function Map(props) {
 
   });
   return (
-    <div className="map" style={{ width: props.width || defaultWidth, height: props.height || defaultHeight }} id={props.id || defaultId}></div>
+    <div className="map" style={{ width: "100%", "max-width": props.width || defaultWidth, height: props.height || defaultHeight }} id={props.id || defaultId}></div>
   );
 }
