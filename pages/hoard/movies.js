@@ -10,7 +10,7 @@ export default function Movies() {
       <h1>Movies</h1>
 
       {data.map((movie, index) => (
-        <Image style={{width: 200, height: 300, display: "inline-block"}} width="200" height="300" alt={movie.title} placeholder="blur" src={require('/public/images/hoard/movies/' + movie.uuid + '.jpg')}></Image>
+        <Image width="200" height="300" alt={movie.title} placeholder="blur" src={require('/public/images/hoard/movies/' + movie.uuid + '.jpg')}></Image>
       ))}
 
     </Text>
