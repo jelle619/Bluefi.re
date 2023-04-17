@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import Link from 'next/link'
 import styles from "./layout.module.css"
-import { MdMenu } from 'react-icons/md';
+
+import { MdMenu, MdHome, MdFeed, MdMail, MdPublic, MdPinDrop, MdBorderColor, MdRateReview, MdMovie, MdGamepad, MdBook } from 'react-icons/md';
+import { RiTreasureMapFill } from 'react-icons/ri';
 
 export default function Layout({ children }) {
 
@@ -17,32 +19,32 @@ export default function Layout({ children }) {
           <div className={styles["dropdown--content"]}>
             <Link href="/contact">Contact</Link>
             <Link href="/legal">Legal</Link>
-            <Link href="/">GitHub</Link>
+            <Link href="https://github.com/jelle619/bluefi.re">GitHub</Link>
           </div>
         </div>
       </div>
       <div className={[styles.navigation, navigationVisibility ? styles["navigation--visible"] : styles["navigation--invisible"]].join(' ')}>
         <nav>
-          <ul>
-            <li><Link onClick={() => setNavigationVisibility(false)} href="/">Home</Link></li>
-            <li><Link onClick={() => setNavigationVisibility(false)} href="/posts">Posts</Link></li>
-            <li><Link onClick={() => setNavigationVisibility(false)} href="/postage">Postage</Link></li>
+          <ul className={styles["navigation__list"]}>
+            <li><MdHome/> <Link onClick={() => setNavigationVisibility(false)} href="/">Home</Link></li>
+            <li><MdFeed/> <Link onClick={() => setNavigationVisibility(false)} href="/posts">Posts</Link></li>
+            <li><MdMail/> <Link onClick={() => setNavigationVisibility(false)} href="/postage">Postage</Link></li>
             <li>Travel</li>
             <ul>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/travel/countries">Countries</Link></li>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/travel/places">Places</Link></li>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/travel/geocaching">Geocaching</Link></li>
+              <li><MdPublic/> <Link onClick={() => setNavigationVisibility(false)} href="/travel/countries">Countries</Link></li>
+              <li><MdPinDrop/> <Link onClick={() => setNavigationVisibility(false)} href="/travel/places">Places</Link></li>
+              <li><RiTreasureMapFill/> <Link onClick={() => setNavigationVisibility(false)} href="/travel/geocaching">Geocaching</Link></li>
             </ul>
             <li>Art</li>
             <ul>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/art/commissions">Commissions</Link></li>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/art/personal">Personal</Link></li>
+              <li><MdRateReview/> <Link onClick={() => setNavigationVisibility(false)} href="/art/commissions">Commissions</Link></li>
+              <li><MdBorderColor/> <Link onClick={() => setNavigationVisibility(false)} href="/art/personal">Personal</Link></li>
             </ul>
             <li>Hoard</li>
             <ul>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/hoard/movies">Movies</Link></li>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/hoard/games">Games</Link></li>
-              <li><Link onClick={() => setNavigationVisibility(false)} href="/hoard/books">Books</Link></li>
+              <li><MdMovie/> <Link onClick={() => setNavigationVisibility(false)} href="/hoard/movies">Movies</Link></li>
+              <li><MdGamepad/> <Link onClick={() => setNavigationVisibility(false)} href="/hoard/games">Games</Link></li>
+              <li><MdBook/> <Link onClick={() => setNavigationVisibility(false)} href="/hoard/books">Books</Link></li>
             </ul>
           </ul>
         </nav>
