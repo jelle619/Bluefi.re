@@ -1,5 +1,4 @@
 // next.config.js
-// next.config.js
 
 module.exports = {
   images: {
@@ -14,13 +13,13 @@ module.exports = {
         protocol: 'https',
         hostname: 'www.opencaching.de',
         port: '',
-        pathname: '/statpics/**',
+        pathname: '/images/statpics/**',
       },
       {
         protocol: 'https',
         hostname: 'www.opencaching.nl',
         port: '',
-        pathname: '/stats/**',
+        pathname: '/images/statpics/**',
       },
     ],
   },

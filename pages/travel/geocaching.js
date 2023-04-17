@@ -11,8 +11,8 @@ export default function Geocaching() {
 
       <h2>Finds</h2>
       <Image width="200" height="50" src="https://img.geocaching.com/stats/img.aspx?txt=Geocaching.com&uid=3c88ab4b-6bba-4872-8bd3-399218cd7d79"/>
-      <Image width="220" height="50" src="https://www.opencaching.de/statpics/DE/436961.jpg"/>
-      <Image width="220" height="50" src="https://www.opencaching.nl/stats/statPic/16349"/>
+      <Image width="220" height="50" src="https://www.opencaching.de/images/statpics/statpic436961DE.jpg"/>
+      <Image width="220" height="50" src="https://www.opencaching.nl/images/statpics/statpic16349.jpg"/>
       <p>For more information, visit my profile on any of the following Geocaching websites.</p>
       <ul>
         <li><Link href="https://www.geocaching.com/p/?guid=3c88ab4b-6bba-4872-8bd3-399218cd7d79">Geocaching.com</Link></li>
