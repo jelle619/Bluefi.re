@@ -63,6 +63,7 @@
     padding: 1rem;
     border: var(--dropdown-border);
     border-radius: var(--dropdown-border-radius);
+    white-space: nowrap;
 }
 
 .dropdown:hover .dropdown__content {
