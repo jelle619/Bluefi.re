@@ -12,14 +12,14 @@ export default function Layout({ children }) {
   return (
     <div className={styles.layout}>
       <div className={styles.header}>
-        <span style={{cursor: "pointer"}} onClick={() => setNavigationVisibility(!navigationVisibility)}>Menu</span>
-        <span>Bluefi.re</span>
-        <div className={styles.dropdown}>
+        <span className={styles["header__item"]} style={{cursor: "pointer"}} onClick={() => setNavigationVisibility(!navigationVisibility)}>Menu</span>
+        <span className={styles["header__item"]}>Bluefi.re</span>
+        <div className={`${styles["header__item"]} ${styles.dropdown}`}>
           <span>More</span>
-          <div className={styles["dropdown--content"]}>
+          <div className={styles["dropdown__content"]}>
             <Link href="/contact">Contact</Link>
             <Link href="/legal">Legal</Link>
-            <Link href="https://github.com/jelle619/bluefi.re">GitHub</Link>
+            <Link target="_blank" href="https://github.com/jelle619/bluefi.re">GitHub</Link>
           </div>
         </div>
       </div>
