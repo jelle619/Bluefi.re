@@ -7,7 +7,7 @@ export default function Games(props) {
   return (
     <Text>
       <h1>Games</h1>
-      
+
       <h2>Steam</h2>
       <p>List of games owned on Steam, not including free games.</p>
       <ul>
@@ -49,8 +49,6 @@ export async function getStaticProps() {
     return 0;
   })
 
-  // By returning { props: { posts } }, the Blog component
-  // will receive `posts` as a prop at build time
   return {
     props: {
       steam: sortedSteam
