@@ -30,7 +30,7 @@ export default function Games(props) {
 }
 
 export async function getStaticProps() {
-  const url = 'http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=' + process.env.STEAM_WEB_API + '&steamid=76561197960434622&format=json&include_appinfo=true&include_played_free_games=false'
+  const url = 'http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=' + process.env.STEAM_WEB_API + '&steamid=76561198061580265&format=json&include_appinfo=true&include_played_free_games=false'
   console.log(url);
   const res = await fetch(url);
   const steam = await res.json();
