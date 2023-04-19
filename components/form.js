@@ -1,5 +1,7 @@
 import Link from 'next/link'
 import styles from "./form.module.css"
+import Script from 'next/script'
+
 
 export default function Form() {
     return (

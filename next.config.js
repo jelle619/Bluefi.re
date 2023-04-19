@@ -3,6 +3,7 @@
 module.exports = {
   images: {
     remotePatterns: [
+      // Geocaching
       {
         protocol: 'https',
         hostname: 'img.geocaching.com',
@@ -20,6 +21,13 @@ module.exports = {
         hostname: 'www.opencaching.nl',
         port: '',
         pathname: '/images/statpics/**',
+      },
+      // Steam
+      {
+        protocol: 'https',
+        hostname: '**.steamstatic.com',
+        port: '',
+        pathname: '/steam/apps/**',
       },
     ],
   },

@@ -2,6 +2,8 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 
+import Head from 'next/head';
+
 import Link from 'next/link';
 
 import Form from '/components/form.js';
@@ -10,24 +12,34 @@ import Text from '/components/text.js';
 export default function HomePage(props) {
 
   return (
-    <Text>
-      <h1>Welcome, dragon</h1>
-      <p>I've created a corner on the internet to share a bit about myself, as well as showcase things I do or am working on. Feel free to say hi, I promise I won't bite!</p>
+    <>
+      <Head>
+        <title>Bluefi.re</title>
+        <meta
+          name="description"
+          content="Cave of a dragon called Bluefire, showing what he is up to."
+        />
 
-      <h1>What's up?</h1>
+      </Head>
+      <Text>
+        <h1>Welcome, dragon</h1>
+        <p>I've created a corner on the internet to share a bit about myself, as well as showcase things I do or am working on. Feel free to say hi, I promise I won't bite!</p>
 
-      <ul>
-        {props["posts"].map((post, index) => (
-          <li key={post.frontmatter.title}><Link href={"/posts/" + post.slug}>{post.frontmatter.title}</Link></li>
-        ))}
-      </ul>
+        <h1>What's up?</h1>
 
-      <Link href="/posts">View all posts</Link>
+        <ul>
+          {props["posts"].map((post, index) => (
+            <li key={post.frontmatter.title}><Link href={"/posts/" + post.slug}>{post.frontmatter.title}</Link></li>
+          ))}
+        </ul>
 
-      <h1>Say hi!</h1>
-      <Form></Form>
-      
-    </Text>
+        <Link href="/posts">View all posts</Link>
+
+        <h1>Say hi!</h1>
+        <Form></Form>
+
+      </Text>
+    </>
   )
 }
 
