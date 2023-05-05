@@ -1,8 +1,11 @@
+const axios = require('axios');
+const cheerio = require('cheerio');
+
 import Text from '/components/text.js';
 import Image from 'next/image'
 import Link from 'next/link';
 
-export default function Geocaching() {
+export default function Geocaching(props) {
 
   return (
     <Text>
@@ -10,6 +13,16 @@ export default function Geocaching() {
       <p>Geocaching is an outdoor recreational activity in which participants use a GPS receiver or mobile device to hide and seek containers, called "geocaches" or "caches", at specific locations marked by coordinates all over the world. It combines elements of hiking, problem solving, and navigation, and can be enjoyed by people of all ages. Participants log their finds and often leave trinkets or notes in the caches they find, creating a global network of treasure hunters and a sense of community.</p>
 
       <h2>Finds</h2>
+
+      {props["maps"].map((map, index) => (
+            <details key={map.title.toLowerCase()}>
+              <summary>{map.title}</summary>
+              <img style={{"maxHeight": "100vh"}} src={map.image}/>
+            </details>
+      ))}
+
+      <br/>
+
       <Image width="200" height="50" src="https://img.geocaching.com/stats/img.aspx?txt=Geocaching.com&uid=3c88ab4b-6bba-4872-8bd3-399218cd7d79"/>
       <Image width="220" height="50" src="https://www.opencaching.de/images/statpics/statpic436961DE.jpg"/>
       <Image width="220" height="50" src="https://www.opencaching.nl/images/statpics/statpic16349.jpg"/>
@@ -32,4 +45,27 @@ export default function Geocaching() {
 
     </Text>
   )
+}
+
+export async function getStaticProps() {
+
+  var maps = [];
+
+  const response = await axios.get('https://project-gc.com/ProfileStats/jelle619');
+  
+  const $ = cheerio.load(response.data);
+  
+  const entries = $('#ps_tabcontent_Maps > .modules > .ps-country');
+
+  entries.each(function() {
+    var title = $(this).find(".profilestats > span").text();
+    var image = "https://project-gc.com" + $(this).find(".ps-country-maps > div > div:nth-child(1) > a").attr("href");
+    maps.push({ "title": title, "image": image });
+  })
+
+  return {
+    props: {
+      "maps": maps
+    }
+  }
 }
