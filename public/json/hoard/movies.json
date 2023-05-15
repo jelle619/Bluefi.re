@@ -600,6 +600,14 @@
         "origin": "GB"
     },
     {
+        "uuid": "7601604c-9eba-47fd-a9af-1d49cd937f81",
+        "tmdb": 20526,
+        "title": "TRON: Legacy",
+        "year": 2010,
+        "medium": "bluray",
+        "origin": "NL"
+    },
+    {
         "uuid": "7bb302f5-5e08-40c2-a841-17b626ec9df2",
         "tmdb": 14160,
         "title": "Up",
