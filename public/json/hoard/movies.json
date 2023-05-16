@@ -55,6 +55,14 @@
         "medium": "dvd",
         "origin": "NL"
     },
+        {
+        "uuid": "920aebb9-bacb-4cc0-84f9-898e08d753b7",
+        "tmdb": 447404,
+        "title": "Pokémon Detective Pikachu",
+        "year": 2019,
+        "medium": "bluray",
+        "origin": "NL"
+    },
     {
         "uuid": "7bec0920-f7ad-48a5-aff9-7b785bf46e04",
         "tmdb": 62837,
