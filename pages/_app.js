@@ -1,7 +1,6 @@
 import "/styles/global.css"
 import Layout from "/components/layout.js"
 import { Analytics } from '@vercel/analytics/react';
-
 import { DM_Sans } from 'next/font/google'
 
 /*
@@ -100,13 +99,11 @@ const dmSans = DM_Sans({
 
 export default function MyApp({ Component, pageProps }) {
     return (
-        <>
-            <div className={dmSans.className}>
+        <div className={dmSans.className}>
                 <Layout>
                     <Component {...pageProps} />
                 </Layout>
-            </div>
             <Analytics />
-        </>
+        </div>
     )
 }
