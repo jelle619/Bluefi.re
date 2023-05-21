@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Link from 'next/link'
 import styles from "./layout.module.css"
 
-import { MdMenu, MdHome, MdFeed, MdMail, MdPublic, MdPinDrop, MdBorderColor, MdRateReview, MdMovie, MdGamepad, MdBook, MdMessage, MdPolicy } from 'react-icons/md';
+import { MdMenu, MdHome, MdFeed, MdMail, MdPublic, MdPinDrop, MdBorderColor, MdRateReview, MdMovie, MdGamepad, MdBook, MdMessage, MdPolicy, MdRadio } from 'react-icons/md';
 import { RiTreasureMapFill } from 'react-icons/ri';
 import { SiGithub } from 'react-icons/si';
 
@@ -30,6 +30,7 @@ export default function Layout({ children }) {
           <ul className={styles["navigation__list"]}>
             <li><MdHome /> <Link onClick={() => setNavigationVisibility(false)} href="/">Home</Link></li>
             <li><MdFeed /> <Link onClick={() => setNavigationVisibility(false)} href="/posts">Posts</Link></li>
+            <li><MdRadio /> <Link onClick={() => setNavigationVisibility(false)} href="/amateur-radio">Amateur Radio</Link></li>
             <li><MdMail /> <Link onClick={() => setNavigationVisibility(false)} href="/postage">Postage</Link></li>
             <li>Travel</li>
             <ul>

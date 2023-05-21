@@ -31,7 +31,7 @@ export default function Contact() {
                 When travelling from or through Germany, crossing the border into the Netherlands can increase travel times significantly. In this case, I would recommend setting the train station in Herzogenrath as your destination, which is situated close to the Dutch border. Alternatively, you could also get out at Übach-Palenberg.
 
                 <ul>
-                    <li><Link href="https://maps.apple.com/?daddr=Bahnhof+Herzogenrath,+Bahnhofstraße+15,+52134+Herzogenrath&dirflg=d&t=m" target="_blank">Maps</Link></li>
+                    <li><Link href="https://maps.apple.com/?daddr=Bahnhof+Herzogenrath,+Bahnhofstraße+15,+52134+Herzogenrath&dirflg=d&t=r" target="_blank">Maps</Link></li>
                     <li><Link href="https://reiseauskunft.bahn.de/bin/query.exe/en?REQ0JourneyStopsZID=A%3D1%40O%3DHerzogenrath%40X%3D6094489%40Y%3D50870918%40U%3D81%40L%3D008002806%40B%3D1%40p%3D1673463547%40" target="_blank">Deutsche Bahn</Link></li>
                 </ul>
 
